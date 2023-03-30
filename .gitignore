@@ -4,6 +4,17 @@
 ## Dear ImGui artifacts
 imgui.ini
 
+# binaries
+**/bin/
+bin-int/
+
+# VS files and folders
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+
 ## General build artifacts
 *.o
 *.obj
