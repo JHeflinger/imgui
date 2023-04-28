@@ -19,7 +19,13 @@ project "ImGui"
         "imstb_textedit.h",
         "imstb_truetype.h",
         "imgui_demo.cpp",
-        "imgui_tables.cpp"
+        "imgui_tables.cpp",
+        "implot.h",
+        "implot.cpp",
+        "implot_demo.h",
+        "implot_demo.cpp",
+        "implot_internal.h",
+        "implot_items.cpp"
     }
     
 	filter "system:windows"
